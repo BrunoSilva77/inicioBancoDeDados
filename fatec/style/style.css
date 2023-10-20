@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+/*Formulario*/
+
+form{
+    border: solid 1px black;
+    margin-left: 35%;
+    margin-top: 100px;
+    width: 25%;
+    height: 450px;
+}
+
+form h1{
+    text-align: center;
+}
+
+form label{
+    color: black;
+    margin-left: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+form div{
+    margin-bottom: 20px;
+}
+
+form input{
+    margin-left: 5px;
+}
+
+form textarea{
+    margin-left: 10px;
+}
+
+.btn_enviar{
+    margin-left: 35%;
+    margin-top: 25px;
+}
+
+.btn_enviar input{
+    font-size: 15px;
+    width: 100px;
+    text-align: center;
+}
+#inp_marca{
+    margin-left: 18px;
+}
+
+#inp_preco{
+    margin-left: 25px;
+}
